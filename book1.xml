@@ -1,0 +1,18 @@
+<catalog>
+    <book id="11">
+        <author>rika</author>
+        <title>python</title>
+        <genre>prog</genre>
+        <price>10</price>
+        <publish_date>12-02-2022</publish_date>
+        <description>programing</description>
+    </book>
+    <book id="12">
+        <author>pratik</author>
+        <title>flask</title>
+        <genre>web</genre>
+        <price>13-02-2022</price>
+        <publish_date>13-02-2022</publish_date>
+        <description>programming</description>
+    </book>
+</catalog>
