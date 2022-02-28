@@ -3,6 +3,8 @@ import xml.etree.ElementTree as ET
 def update_xml(filename):
     tree=ET.ElementTree(file=filename)
     category=tree.getroot()
+    # print(category.findall("price"))
+    # print(category.find("price"))
     for price in iter(category.findall("price")):
         price.text="110"
         print(dir(price))
