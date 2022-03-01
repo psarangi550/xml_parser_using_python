@@ -1,18 +1,14 @@
 <category>
     <book id="10">
-        <name value="1">django</name>
         <price>100</price>
     </book>
     <book id="11">
-        <name>docker</name>
         <price>100</price>
     </book>
     <book id="12">
-        <name>puppet</name>
         <price>100</price>
     </book>
     <book id="13">
-        <name>kubernetes</name>
         <price>100</price>
     </book>
 </category>

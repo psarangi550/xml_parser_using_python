@@ -1,8 +1,5 @@
 <category>
-    <book id="10">
-        <name value="1">django</name>
-        <price>100</price>
-    </book>
+    <book />
     <book id="11">
         <name>docker</name>
         <price>100</price>
